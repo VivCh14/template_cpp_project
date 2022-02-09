@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd build_release/build
+rm -r ./*
+cmake ..
+make
+cd ../../exe/build
+rm -r ./*
+cmake ..
+make
