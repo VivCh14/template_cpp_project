@@ -5,7 +5,7 @@ and is documented using Doxygen.
 
 ### Prerequisites
 
-- Define `ROSETTA_DIR` in your environment. Ex. In your `.bashrc` file add
+- Define `PROJECT_DIR` in your environment. Example: In your `.bashrc` file add
 "`export PROJECT_DIR="FULL-PATH-TO-PROJECT-DIR`" or add it to you '`/etc/environment`'
 file to use it also in `Sublime Text` build.
 
